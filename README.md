@@ -1,2 +1,2 @@
 # site
-Thoaded site and documentation
+Thoaded site and documentations
